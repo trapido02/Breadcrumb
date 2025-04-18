@@ -1,0 +1,8 @@
+## Interface: 11200
+## Version: 1.0.0
+## Title: Breadcrumb
+## Author: Trapido02
+## Notes: Warn you about breadcrumb quests
+
+Quests.lua
+Breadcrumb.lua
